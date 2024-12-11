@@ -1,6 +1,6 @@
-# TaskMaster - A Simple To-Do App
+# WeatherMaster - A Simple Weather App
 
-TaskMaster is a user-friendly, cross-platform to-do list application built with React Native. It helps you manage tasks effortlessly on both iOS and Android devices.
+WeatherMaster is a lightweight and cross-platform weather app built with React Native. It provides real-time weather updates and forecasts, making it easy to stay prepared for any weather conditions.
 
 ## Table of Contents
 
@@ -57,20 +57,38 @@ TaskMaster is a user-friendly, cross-platform to-do list application built with 
 
 ## App Features
 
-  - Add, edit, and delete tasks.
-  - Mark tasks as complete or incomplete.
-  - Make light and dark mode and toggle between them.
+- Check current weather conditions including temperature, humidity, and wind speed.
+- Get a 7-day weather forecast.
+- View weather information in both Celsius and Fahrenheit.
+- Toggle between light mode and dark mode.
 
 
 ## How To Contribute
 
-Contributions are welcome! Follow these steps:
-   1.Fork the repository.
-   2.Create a new branch: git checkout -b feature/your-feature-name.
-   3.Commit your changes: git commit -m 'Add your feature'.
-   4.Push the branch: git push origin feature/your-feature-name.
-   5.Open a Pull Request.
+- Contributions are welcome! Follow these steps:
+   1. Fork the repository.
+   2. Create a new branch: git checkout -b feature/your-feature-name.
+   3. Commit your changes: git commit -m 'Add your feature'.
+   4. Push the branch: git push origin feature/your-feature-name.
+   5. Open a Pull Request.
 
 ## License
 
-- This project is licensed under the MIT License
+This project is licensed under the Apache 2.0 License. See the [LICENSE](/LICENSE) file for more details.
+
+### Apache 2.0 License Summary:
+
+- **Permissions**:
+  - You can use, modify, and distribute the software.
+  - You can use the software for commercial purposes.
+
+- **Conditions**:
+  - You must include a copy of the Apache 2.0 License in your distribution.
+  - You must state any changes made to the code.
+  - You cannot use the project's name or trademarks without permission.
+
+- **Limitations**:
+  - The software is provided "as is", without warranty of any kind.
+
+For more detailed information, please refer to the full [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
+
